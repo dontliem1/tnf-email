@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tnf-email/static/css/main.5e719a7e.chunk.css",
+    "main.js": "/tnf-email/static/js/main.f8d65d0d.chunk.js",
+    "main.js.map": "/tnf-email/static/js/main.f8d65d0d.chunk.js.map",
+    "runtime-main.js": "/tnf-email/static/js/runtime-main.5720c795.js",
+    "runtime-main.js.map": "/tnf-email/static/js/runtime-main.5720c795.js.map",
+    "static/js/2.d902e66f.chunk.js": "/tnf-email/static/js/2.d902e66f.chunk.js",
+    "static/js/2.d902e66f.chunk.js.map": "/tnf-email/static/js/2.d902e66f.chunk.js.map",
+    "index.html": "/tnf-email/index.html",
+    "static/css/main.5e719a7e.chunk.css.map": "/tnf-email/static/css/main.5e719a7e.chunk.css.map",
+    "static/js/2.d902e66f.chunk.js.LICENSE.txt": "/tnf-email/static/js/2.d902e66f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5720c795.js",
+    "static/js/2.d902e66f.chunk.js",
+    "static/css/main.5e719a7e.chunk.css",
+    "static/js/main.f8d65d0d.chunk.js"
+  ]
+}
