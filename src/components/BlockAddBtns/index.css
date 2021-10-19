@@ -1,0 +1,12 @@
+.blocks__list {
+    padding-bottom: 20px;
+}
+.blocks__list button {
+    border: 1px solid;
+    border-radius: 0;
+    font: inherit;
+    padding: 6px 10px 7px;
+    cursor: pointer;
+    background: none;
+    margin: 0 10px 10px 0;
+}
